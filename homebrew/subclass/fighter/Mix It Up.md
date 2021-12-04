@@ -16,7 +16,7 @@ to those of the Battle Master archetype, with the exception that there is no lim
         property you must also spend your bonus action in addition to your 
         interaction to draw it
 - **Stylish Fighter**
-    - You learn to perform special maneuvers using both melee and ranged weapons
+    - You learn to perform [special maneuvers](#maneuvers) using both melee and ranged weapons
         - You learn 3 maneuvers at 3<sup>rd</sup> level
         - You can learn an additional maneuver at 7<sup>th</sup>, 10<sup>th</sup>, 15<sup>th</sup>, 18<sup>th</sup> level
             - Each time you learn an additional maneuver you can also replace one 
