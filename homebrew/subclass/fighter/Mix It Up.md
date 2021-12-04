@@ -32,7 +32,7 @@ to those of the Battle Master archetype, with the exception that there is no lim
     - When you enter combat, you start with 0 **SP**
     - During combat you can gain **SP** by attacking in a different way than 
     previously
-        - Possible attack sequences and more information can be found here
+        - Possible attack sequences and more information can be found [here](#attacking-in-a-different-way-than-before)
         - An attack must hit, but not deal damage, to grant any **SP**
     - **When you take damage, you lose 1 SP. This can only happens once until 
     your next turn!**
