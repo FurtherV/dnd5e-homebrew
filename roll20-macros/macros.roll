@@ -1,0 +1,2 @@
+<!-- Second Wind Macro -->
+&{template:dmg} {{rname=[Second Wind](~Lukas Windwalker|repeating_traits_$2_output" style="background-color: transparent; color: black; border: 0;)}} {{range=Self}} {{damage=1}} {{dmg1flag=1}} {{dmg1=[[1d10]]}} {{dmg1type=Healing}} {{charname=Lukas Windwalker}}
