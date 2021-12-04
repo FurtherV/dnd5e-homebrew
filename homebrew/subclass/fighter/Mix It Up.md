@@ -70,7 +70,7 @@ to those of the Battle Master archetype, with the exception that there is no lim
 When you make an attack, you can spend **2 SP** to attempt to disarm the target, 
 forcing it to drop one item of your choice that it is holding. The target must 
 make a Strength saving throw. On a failed save the target will the drop the 
-specified object. The object lands 10 feet away from the target in a random 
+specified object. The object lands 10 ft. away from the target in a random 
 direction (d6, direction is clockwise).
 
 **Tripping Attack (Both)**:  
@@ -80,24 +80,24 @@ it must make a Strength saving throw. On a failed save you knock the target pron
 
 **Feinting Strike (Melee)**:  
 You can spend **2 SP** and your bonus action on your turn to feint, choosing one 
-creature within 5 feet of you as your target. You have advantage on your next 
+creature within 5 ft. of you as your target. You have advantage on your next 
 attack roll against that creature. The advantage is lost if not used the turn you 
 gain it.
 
 **Lunging Strike (Melee)**:  
 When you make a melee weapon attack on your turn, you can spend **2 SP** to 
-increase your reach of that attack by 5 feet.
+increase your reach of that attack by 5 ft. .
 
 **Sweeping Attack (Melee)**:  
 When you hit a creature with a melee weapon attack, you can spend **2 SP** to 
 attempt to damage another creature with the same attack. You must choose another 
-creature within 5 feet of the original target and within your reach. If the 
+creature within 5 ft. of the original target and within your reach. If the 
 original attack roll would hit the second creature, it takes damage equal to half 
 of the damage the original target took (rounded down). The damage is of the same 
 type dealt as the original damage.
 
 **Whirlwind Strike (Melee)**:  
-When you or an ally within 5 feet is targeted by a ranged attack, with a 
+When you or an ally within 5 ft. is targeted by a ranged attack, with a 
 destroyable projectile (What projectiles are destroyable is decided by the DM), 
 you can spend **2 SP** and your reaction to attempt to destroy the projectile. 
 You must succeed an Acrobatics (DC set by DM) check. If the check succeeds you 
