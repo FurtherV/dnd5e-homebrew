@@ -1,2 +1,2 @@
-# dnd5e-homebrew
-A collection of homebrew for dnd 5e
+# Dungeons and Dragons 5e - Homebrew
+This repository contains macros for roll20 and homebrew for DnD 5e.
