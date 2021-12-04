@@ -29,7 +29,7 @@ to those of the Battle Master archetype, with the exception that there is no lim
         - You can still use multiple maneuvers in a single turn, but they can not 
         affect the same attack in any way
     - Using any of these maneuvers requires a new resource: **Style Points (SP)**
-    - When you enter combat, you start with 0 **SP**
+    - When you enter combat, you start with **0 SP**
     - During combat you can gain **SP** by attacking in a different way than 
     previously
         - Possible attack sequences and more information can be found [here](#attacking-in-a-different-way-than-before)
@@ -53,8 +53,7 @@ to those of the Battle Master archetype, with the exception that there is no lim
 - **Enhanced Reflexes**
     - Number of charges of **Quick Reflexes** increased to **4 charges**
 - **Critical Style**
-    - When you score a critical hit on a creature you gain an additional **style 
-    point (SP)**
+    - When you score a critical hit on a creature you gain an additional **style point (SP)**
 
 ### Level 15
 - **Vicious Intent**
