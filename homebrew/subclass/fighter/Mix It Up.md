@@ -86,7 +86,7 @@ gain it.
 
 **Lunging Strike (Melee)**:  
 When you make a melee weapon attack on your turn, you can spend **2 SP** to 
-increase your reach of that attack by 5 ft. .
+increase your reach of that attack by 5 ft.
 
 **Sweeping Attack (Melee)**:  
 When you hit a creature with a melee weapon attack, you can spend **2 SP** to 
@@ -96,13 +96,10 @@ original attack roll would hit the second creature, it takes damage equal to hal
 of the damage the original target took (rounded down). The damage is of the same 
 type dealt as the original damage.
 
-**Whirlwind Strike (Melee)**:  
-When you or an ally within 5 ft. is targeted by a ranged attack, with a 
-destroyable projectile (What projectiles are destroyable is decided by the DM), 
-you can spend **2 SP** and your reaction to attempt to destroy the projectile. 
-You must succeed an Acrobatics (DC set by DM) check. If the check succeeds you 
-destroy the projectile and negate ANY damage and effects, it would have done. If 
-the check fails, the projectile remains untouched.
+**Intercept Projectile (Melee)**:  
+When you or an ally within 5 ft. is targeted by a missile from a ranged weapon 
+attack, you can use your reaction and spend **2 SP** to attempt to deflect the 
+projectile. You must succeed an Dexterity (Acrobatics) check against a DC set by the DM for the missile. If you succeed, the damage dealt by the attack is 0. 
 
 **Precision Shot (Ranged)**:  
 You can spend **2 SP** and your bonus action to aim especially carefully at a 
@@ -118,23 +115,22 @@ ranged opportunity attack from you. You use your reaction to take this shot.
 
 **Piercing Shot (Ranged)**:  
 When you make a ranged weapon attack against a creature, you can spend **3 SP** 
-to attempt to fire through multiple opponents. The initial attack gains -2 to 
-hit. On a hit the target suffers normal damage, and you make an attack roll with 
-disadvantage against every creature in a line directly behind the target within 
-your first range increment.
+to attempt to fire through multiple opponents. The initial attack gains **-3 to 
+hit**. On a hit the target suffers normal damage, and you make an attack roll 
+with disadvantage against every creature in a line directly behind the target 
+within your first range increment.
 
 **Overcharged Shot (Ranged)**:  
 When you make a ranged weapon attack against a creature, you can spend **3 SP** 
-to overcharge your ranged weapon. The attack roll happens with a -5 to hit. If 
-the attack hits you can roll 1 additional damage die when determining the damage.
+to overcharge your ranged weapon. The attack roll happens with a **-3 to hit**. 
+If the attack hits you can roll 1 additional damage die when determining the 
+damage.
 
 **Rain of Arrows (Ranged) (Requires Level 10 or higher)**:  
-can use your action and **4 SP** to make a ranged attack against up to 10 
-creatures of your choice, within your weapon’s range. You must be able to see 
-each target and you must have ammunition for each target, as normal. You make a 
-separate attack roll for each target. You are exhausted after the last attack 
-roll: You have disadvantage on all saving throws and hostile creatures have 
-advantage on all attack rolls against you until your next turn.
+You can use your action and spend **4 SP** to make a ranged attack against any 
+number of creatures within 10 ft. of a point that you can see within your weapons 
+range. You must have ammunition for each target, as normal, and you make a 
+separate attack roll for each target.
 
 ## Maneuver Table
 | Name | Weapon Type | Category | SP Cost | Requires bonus action | Requires reaction |
@@ -144,7 +140,7 @@ advantage on all attack rolls against you until your next turn.
 | Feinting Strike | Melee | Self-Buff | 2 | Yes | No |
 | Lunging Strike | Melee | Self-Buff | 2 | No | No |
 | Sweeping Attack | Melee | Multi-Attack | 2 | No | No |
-| Whirlwind Strike | Melee | Protection | 2 | No | Yes |
+| Intercept Projectile | Melee | Protection | 2 | No | Yes |
 | Precision Shot | Ranged | Self-Buff | 2 | Yes | No |
 | Overwatch Stance | Ranged | Reaction | 2 | No | Yes |
 | Piercing Shot | Ranged | Multi-Attack | 3 | No | No |
