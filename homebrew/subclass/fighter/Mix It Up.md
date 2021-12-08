@@ -94,8 +94,8 @@ When you hit a creature with a melee weapon attack, you can spend **2 SP** to
 attempt to damage another creature with the same attack. You must choose another 
 creature within 5 ft. of the original target and within your reach. If the 
 original attack roll would hit the second creature, it takes damage equal to half 
-of the damage the original target took (rounded down). The damage is of the same 
-type dealt as the original damage.
+of the damage the original target took (rounded towards 1). The damage is of the 
+same type dealt as the original damage.
 
 **Intercept Projectile (Melee)**:  
 When you or an ally within 5 ft. is targeted by a missile from a ranged weapon 
