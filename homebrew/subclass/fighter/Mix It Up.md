@@ -12,9 +12,10 @@ to those of the Battle Master archetype, with the exception that there is no lim
 - **Quick Swap**
     - You learn to quickly switch between weapons in combat. You can now sheathe 
     a weapon and then draw a different weapon as a single interaction
-        - If the weapon you want to draw using this ability has the Two-Handed 
-        property you must also spend your bonus action in addition to your 
-        interaction to draw it
+        - You can not use this feature while you wield both a weapon and a shield
+        - If the weapon you want to draw using this feature has the 
+        **Two-Handed** property you must also spend your bonus action in addition 
+        to your interaction to draw it
 - **Stylish Fighter**
     - You learn to perform [special maneuvers](#maneuvers) using both melee and ranged weapons
         - You learn 3 maneuvers at 3<sup>rd</sup> level
