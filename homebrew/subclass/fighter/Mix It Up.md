@@ -97,7 +97,7 @@ original attack roll would hit the second creature, it takes damage equal to hal
 of the damage the original target took (rounded towards 1). The damage is of the 
 same type dealt as the original damage.
 
-**Intercept Projectile (Melee)**:  
+**Intercept Missile (Melee)**:  
 When you or an ally within 5 ft. is targeted by a missile from a ranged weapon 
 attack, you can use your reaction and spend **2 SP** to attempt to deflect the 
 projectile. You must succeed an Dexterity (Acrobatics) check against a DC set by the DM for the missile. If you succeed, the damage dealt by the attack is 0. 
