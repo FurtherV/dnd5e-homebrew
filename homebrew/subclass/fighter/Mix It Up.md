@@ -100,13 +100,13 @@ same type dealt as the original damage.
 **Intercept Missile (Melee)**:  
 When you or an ally within 5 ft. is targeted by a missile from a ranged weapon 
 attack, you can use your reaction and spend **2 SP** to attempt to deflect the 
-projectile. You must succeed an Dexterity (Acrobatics) check against a DC set by the DM for the missile. If you succeed, the damage dealt by the attack is 0. 
+projectile. You must succeed an Dexterity (Acrobatics) check against a DC set by 
+the DM for the missile. If you succeed, the damage dealt by the attack is 0. 
 
 **Precision Shot (Ranged)**:  
 You can spend **2 SP** and your bonus action to aim especially carefully at a 
-creature. This turn, your next ranged attack against that creature happens with 
-advantage if you have no disadvantage. If you have disadvantage, the attack 
-instead happens with neither advantage nor disadvantage.
+creature. You gain advantage on your next ranged weapon attack against that 
+creature. The advantage is lost if not used this turn.
 
 **Overwatch Stance (Ranged)**:  
 At the end of your turn, you can choose to spend **2 SP** to lock down an area. 
