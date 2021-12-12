@@ -141,7 +141,7 @@ separate attack roll for each target.
 | Feinting Strike | Melee | Self-Buff | 2 | Yes | No |
 | Lunging Strike | Melee | Self-Buff | 2 | No | No |
 | Sweeping Attack | Melee | Multi-Attack | 2 | No | No |
-| Intercept Projectile | Melee | Protection | 2 | No | Yes |
+| Intercept Missile | Melee | Protection | 2 | No | Yes |
 | Precision Shot | Ranged | Self-Buff | 2 | Yes | No |
 | Overwatch Stance | Ranged | Reaction | 2 | No | Yes |
 | Piercing Shot | Ranged | Multi-Attack | 3 | No | No |
