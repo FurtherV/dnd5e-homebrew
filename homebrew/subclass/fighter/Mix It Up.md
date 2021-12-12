@@ -136,7 +136,7 @@ damage.
 
 **Rain of Arrows (Ranged) (Requires Level 10 or higher)**:  
 You can use your action and spend **4 SP** to make a ranged attack against any 
-number of creatures within 10 ft. of a point that you can see within your weapons 
+number of creatures within 5 ft. of a point that you can see within your weapons 
 range. You must have ammunition for each target, as normal, and you make a 
 separate attack roll for each target.
 
