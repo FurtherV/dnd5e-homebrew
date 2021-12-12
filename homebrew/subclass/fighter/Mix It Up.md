@@ -19,7 +19,7 @@ exception that there is no limit to them in a combat encounter.
         - You can not use this feature while you wield both a weapon 
         and a shield
         - If the weapon you want to draw using this feature has the 
-        **Two-Handed** property you must also spend your bonus action 
+        **Heavy** property you must also spend your bonus action 
         in addition to your interaction to draw it
 - **Stylish Fighter**
     - You learn to perform [special maneuvers](#maneuvers) using both 
