@@ -1,42 +1,53 @@
 # Fighter Subclass: Mix it Up!
 ## Description
-The archetypal "Mix it up!" focuses on mixing melee attacks with ranged attacks resulting in a deadly combination.
-Dangerous for users and foes alike, those who choose this archetype must truly be a daredevil.
+The archetypal "Mix it up!" focuses on mixing melee attacks with ranged 
+attacks resulting in a deadly combination. Dangerous for users and foes 
+alike, those who choose this archetype must truly be a daredevil.
 
-This subclasses combat abilities shine during long combat encounters and forces the player to switch efficiently 
-between melee weapons and ranged weapons. If they can do so they will be able to perform powerful maneuvers similar
-to those of the Battle Master archetype, with the exception that there is no limit to them in a combat encounter.
+This subclasses combat abilities shine during long combat encounters 
+and forces the player to switch efficiently between melee weapons and 
+ranged weapons. If they can do so they will be able to perform powerful 
+maneuvers similar to those of the Battle Master archetype, with the 
+exception that there is no limit to them in a combat encounter.
 
 ## Abilities
 ### Level 3 (When you select this archetype)
 - **Quick Swap**
-    - You learn to quickly switch between weapons in combat. You can now sheathe 
-    a weapon and then draw a different weapon as a single interaction
-        - You can not use this feature while you wield both a weapon and a shield
+    - You learn to quickly switch between weapons in combat. You can 
+    now sheathe a weapon and then draw a different weapon as a single 
+    interaction
+        - You can not use this feature while you wield both a weapon 
+        and a shield
         - If the weapon you want to draw using this feature has the 
-        **Two-Handed** property you must also spend your bonus action in addition 
-        to your interaction to draw it
+        **Two-Handed** property you must also spend your bonus action 
+        in addition to your interaction to draw it
 - **Stylish Fighter**
-    - You learn to perform [special maneuvers](#maneuvers) using both melee and ranged weapons
+    - You learn to perform [special maneuvers](#maneuvers) using both 
+    melee and ranged weapons
         - You learn 3 maneuvers at 3<sup>rd</sup> level
-        - You can learn an additional maneuver at 7<sup>th</sup>, 10<sup>th</sup>, 15<sup>th</sup>, 18<sup>th</sup> level
-            - Each time you learn an additional maneuver you can also replace one 
+        - You can learn an additional maneuver at 7<sup>th</sup>, 
+        10<sup>th</sup>, 15<sup>th</sup>, 18<sup>th</sup> level
+            - Each time you learn an additional maneuver you can also 
+            replace one 
             maneuver you know with a different one
-            - At the DM's discretion you can also replace one maneuver you know 
+            - At the DM's discretion you can also replace one maneuver 
+            you know 
             with a different one after a long rest
-    - Some of these maneuvers require your targets to make a saving throw  
+    - Some of these maneuvers require your targets to make a saving 
+    throw  
     The saving throw DC is calculated as follows: `DC = 8 + proficiency bonus + dex mod`
     - You can use only one maneuver per attack
-        - You can still use multiple maneuvers in a single turn, but they can not 
+        - You can still use multiple maneuvers in a single turn, but 
+        they can not 
         affect the same attack in any way
     - Using any of these maneuvers requires a new resource: **Style Points (SP)**
     - When you enter combat, you start with **0 SP**
-    - During combat you can gain **SP** by attacking in a different way than 
-    previously
-        - Possible attack sequences and more information can be found [here](#attacking-in-a-different-way-than-before)
+    - During combat you can gain **SP** by attacking in a different way 
+    than previously
+        - Possible attack sequences and more information can be found 
+        [here](#attacking-in-a-different-way-than-before)
         - An attack must hit, but not deal damage, to grant any **SP**
-    - **When you take damage, you lose 1 SP. This can only happens once until 
-    your next turn!**
+    - **When you take damage, you lose 1 SP. This can only happens once until your next turn!**
 
 ### Level 5
 - **Quick Reflexes**
@@ -68,11 +79,7 @@ to those of the Battle Master archetype, with the exception that there is no lim
 
 ## Maneuvers
 **Disarming Attack (Both)**:  
-When you make an attack, you can spend **2 SP** to attempt to disarm the target, 
-forcing it to drop one item of your choice that it is holding. The target must 
-make a Strength saving throw. On a failed save the target will the drop the 
-specified object. The object lands 10 ft. away from the target in a random 
-direction (d6, direction is clockwise).
+When you make an attack, you can spend **2 SP** to attempt to disarm the target, forcing it to drop one item of your choice that it is holding. The target must make a Strength saving throw. On a failed save the target will the drop the specified object. The object lands 10 ft. away from the target in a random direction (d6, direction is clockwise).
 
 **Tripping Attack (Both)**:  
 When you make an attack, you can spend **2 SP** to attempt to knock the target 
