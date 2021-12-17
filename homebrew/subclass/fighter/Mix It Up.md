@@ -49,17 +49,15 @@ exception that there is no limit to them in a combat encounter.
         - An attack must hit, but not deal damage, to grant any **SP**
     - **When you take damage, you lose 1 SP. This can only happens once until your next turn!**
 
-### Level 5
+### Level 7
+- **Mixing the Pain**
+    - Immediately after every successful attack, you can use **Quick Swap** once 
+    for free
 - **Quick Reflexes**
     - This ability has **2 charges**. When you provoke an opportunity attack from 
     a creature that you can see, you can spend a charge so the opportunity attack 
     happens with disadvantage
     - You regain **all charges** after a short or long rest
-
-### Level 7
-- **Mixing the Pain**
-    - Immediately after every successful attack, you can use **Quick Swap** once 
-    for free
 
 ### Level 10
 - **Enhanced Reflexes**
