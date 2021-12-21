@@ -31,8 +31,7 @@ exception that there is no limit to them in a combat encounter.
             replace one 
             maneuver you know with a different one
             - At the DM's discretion you can also replace one maneuver 
-            you know 
-            with a different one after a long rest
+            you know with a different one after a long rest
     - Some of these maneuvers require your targets to make a saving 
     throw  
     The saving throw DC is calculated as follows: `DC = 8 + proficiency bonus + dex mod`
