@@ -137,9 +137,7 @@ you must also spend your bonus action in order to draw it
 #### Stylish Fighter
 Also starting at 3rd level, you learn to perform special maneuvers using both melee and ranged weapons which are fueled by style.
 
-**Maneuvers** You learn two maneuvers of your choice, which are detailed under "Maneuvers" below. Maneuvers enhance your attacks in some way or grant you special abilities. You can use only one maneuver per attack.
-
-You learn an additional maneuver at 7th, 10th, 15th and 18th level. Each time you learn new maneuvers, you can also replace a maneuver you know with a different one.
+**Maneuvers** You learn three maneuvers of your choice, which are detailed under "Maneuvers" below. Maneuvers enhance your attacks in some way or grant you special abilities. You can use only one maneuver per attack. You learn an additional maneuver at 7th, 10th, 15th and 18th level. Each time you learn new maneuvers, you can also replace a maneuver you know with a different one. At the DM's discretion you can also replace one maneuver you know with a different one after a long rest.
 
 **Style Points** During combat you can earn style points by attacking and hitting in a different way than before. You expend these style points in order to use your maneuvers. You always start combat with 0 style points.
 
@@ -163,11 +161,11 @@ is calculated as follows:
 #### Mixing the Pain
 Starting at 7th level, immediately after every successful attack, you can use **Quick Swap** once for free.
 
+\columnbreak
+
 #### Quick Reflexes
 * This ability  has **2 charges**. When you provoke an opportunity attack from a creature that you can see, you can spend a charge to dodge and impose disadvantage on the attack.
 * You regain **all charges** after a short or long rest.
-
-\columnbreak
 
 #### Enhanced Reflexes
 At 10th level the number of charges of **Quick Reflexes** is increased to **4 charges**.
@@ -208,6 +206,8 @@ original attack roll would hit the second creature, it takes damage equal to hal
 of the damage the original target took (rounded towards 1). The damage is of the 
 same type dealt as the original damage.
 
+\pagebreakNum
+
 **Intercept Missile (Melee)** When you or an ally within 5 ft. is targeted by a missile from a ranged weapon 
 attack, you can use your reaction and spend **2 SP** to attempt to deflect the 
 projectile. You must succeed an Dexterity (Acrobatics) check against a DC set by 
@@ -216,8 +216,6 @@ the DM for the missile. If you succeed, the damage dealt by the attack is 0.
 **Precision Shot (Ranged)** You can spend **2 SP** and your bonus action to aim especially carefully at a 
 creature. You gain advantage on your next ranged weapon attack against that 
 creature. The advantage is lost if not used this turn.
-
-\pagebreakNum
 
 **Overwatch Stance (Ranged)** At the end of your turn, you can choose to spend **2 SP** to lock down an area. 
 Until the start of your next turn, the next hostile creature you can see that 
